@@ -1,0 +1,4 @@
+Mergi la https://www.base64encode.net/ 
+	b. Codeaza textul: PSeA1-IonPopescu (cu primul tau prenume, urmat de primul tau nume, capitalizate). Foloseste setarile implicite.
+	c. Treci in fisierul Raspuns.txt urmatorul continut:
+		Ion Popescu | PSeA1-IonPopescu => UFNlQTEtSW9uUG9wZXNjdQ==
